@@ -4,7 +4,15 @@ This project, "Fraud Detection in Fintech," demonstrates fraud detection capabil
 
 ## Live Demo
 
-A live hosted application is available for demonstration at [http://145.223.20.213:7474/](http://145.223.20.213:7474/). Once on the browser console, connect to the database at `bolt://145.223.20.213:7687` without any username/password. You can access the Neo4j console and explore the data directly without setting up the application locally. You can use the cypher commands found in the `./queries` folder.
+A live hosted application is available for demonstration:
+
+- **Access the Demo**: [http://145.223.20.213:7474/](http://145.223.20.213:7474/)
+- **Database Connection**: Connect to the database using `bolt://145.223.20.213:7687`
+  - No username or password is required. Just hit connect!
+
+Once connected, you can access the Neo4j console and explore the data directly without any local setup.
+
+**Tip**: Use the Cypher commands located in the `./queries` folder for guided exploration.
 
 ## Getting Started
 
